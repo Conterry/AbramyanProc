@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcAbramyan", "ProcAbramyan\ProcAbramyan.csproj", "{E609A07D-46F6-44C4-867F-781B2B9F01BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProcAbramyan.Tests", "ProcAbramyan.Tests\ProcAbramyan.Tests.csproj", "{6E263839-71DB-4E6A-9885-6ADF8248867D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E609A07D-46F6-44C4-867F-781B2B9F01BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E609A07D-46F6-44C4-867F-781B2B9F01BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E609A07D-46F6-44C4-867F-781B2B9F01BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E609A07D-46F6-44C4-867F-781B2B9F01BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E263839-71DB-4E6A-9885-6ADF8248867D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E263839-71DB-4E6A-9885-6ADF8248867D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E263839-71DB-4E6A-9885-6ADF8248867D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E263839-71DB-4E6A-9885-6ADF8248867D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3FAB54D-723C-44A2-8CD6-F96DDC3F04F3}
+	EndGlobalSection
+EndGlobal

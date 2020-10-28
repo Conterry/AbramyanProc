@@ -1,0 +1,9 @@
+C:\Users\glebo\source\repos\ProcAbramyan\ProcAbramyan\bin\Debug\netstandard2.0\ProcAbramyan.deps.json
+C:\Users\glebo\source\repos\ProcAbramyan\ProcAbramyan\bin\Debug\netstandard2.0\ProcAbramyan.dll
+C:\Users\glebo\source\repos\ProcAbramyan\ProcAbramyan\bin\Debug\netstandard2.0\ProcAbramyan.pdb
+C:\Users\glebo\source\repos\ProcAbramyan\ProcAbramyan\obj\Debug\netstandard2.0\ProcAbramyan.csprojAssemblyReference.cache
+C:\Users\glebo\source\repos\ProcAbramyan\ProcAbramyan\obj\Debug\netstandard2.0\ProcAbramyan.AssemblyInfoInputs.cache
+C:\Users\glebo\source\repos\ProcAbramyan\ProcAbramyan\obj\Debug\netstandard2.0\ProcAbramyan.AssemblyInfo.cs
+C:\Users\glebo\source\repos\ProcAbramyan\ProcAbramyan\obj\Debug\netstandard2.0\ProcAbramyan.csproj.CoreCompileInputs.cache
+C:\Users\glebo\source\repos\ProcAbramyan\ProcAbramyan\obj\Debug\netstandard2.0\ProcAbramyan.dll
+C:\Users\glebo\source\repos\ProcAbramyan\ProcAbramyan\obj\Debug\netstandard2.0\ProcAbramyan.pdb
